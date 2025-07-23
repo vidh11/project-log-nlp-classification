@@ -17,7 +17,7 @@ This project implements a hybrid log classification system, combining three comp
 * Provides a fallback or complementary approach to the other methods.
 
 
-![](C:\Users\DELL\PycharmProjects\pythonProject3\Picture1.png)
+![](Picture1.png)
 
 # Folder Structure
 
